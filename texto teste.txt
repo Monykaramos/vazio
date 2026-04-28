@@ -2,3 +2,15 @@ Blumenau, 28/04/26
 
 aula de GitHub
 criado um repositório vazio sem o readme
+pra inic na pasta
+clique direito na pasta
+clicar bit bash
+comandos
+git init
+git add .
+git status
+git commit -m "first commit"
+git branch - M main
+
+algo a mais
+
